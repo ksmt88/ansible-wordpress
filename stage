@@ -1,0 +1,5 @@
+[wordpress-server]
+192.168.43.52
+
+[stage:children]
+wordpress-server

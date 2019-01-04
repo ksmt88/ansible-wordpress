@@ -1,0 +1,6 @@
+[wordpress-server]
+192.168.33.10
+
+[localhost:children]
+wordpress-server
+
